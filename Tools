@@ -1,0 +1,12 @@
+# 🛠️ Tools for Password Strength Evaluation
+
+## Online Checkers Used
+- **PasswordMeter**: https://www.passwordmeter.com/
+- **Kaspersky Password Checker**: https://password.kaspersky.com/
+- **NordPass Strength Checker**: https://nordpass.com/password-strength-checker/
+
+Each tool provides a score or grade for passwords based on:
+- Length
+- Character variety
+- Use of dictionary words
+- Predictability
